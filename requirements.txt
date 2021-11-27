@@ -1,0 +1,5 @@
+pyqt5
+gTTS
+pyttsx3
+playsound
+tk
